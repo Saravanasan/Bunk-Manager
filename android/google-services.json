@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "105590964004",
+    "firebase_url": "https://bunk-manager-a9931.firebaseio.com",
+    "project_id": "bunk-manager-a9931",
+    "storage_bucket": "bunk-manager-a9931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105590964004:android:b79f98061504fec87c7db1",
+        "android_client_info": {
+          "package_name": "thealphamerc.bunk_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105590964004-jumedh2r535h1515939i9q0ikhmci0ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0V3eyNAGb9FzWvEWwuCq8MluMQZGxoRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105590964004-jumedh2r535h1515939i9q0ikhmci0ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
